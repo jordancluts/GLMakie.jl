@@ -2,6 +2,7 @@
 > 
 > GLMakie has been moved into the monorepo at [Makie.jl](https://github.com/JuliaPlots/Makie.jl).
 > The latest version can be determined by checking the Project.toml in the GLMakie subdirectory.
+> `add GLMakie` will now install from the monorepo for GLMakie versions above 0.3.4.
 
 
 The OpenGL backend for [Makie](https://github.com/JuliaPlots/Makie.jl)
